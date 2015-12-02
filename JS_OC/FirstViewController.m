@@ -30,8 +30,6 @@
     self.navigationItem.rightBarButtonItem = rightItem;
     
     
-    
-    
 }
 
 - (void)rightAction
