@@ -28,7 +28,11 @@
     
     UIBarButtonItem *rightItem = [[UIBarButtonItem alloc] initWithTitle:@"调JS" style:UIBarButtonItemStylePlain target:self action:@selector(rightAction)];
     self.navigationItem.rightBarButtonItem = rightItem;
-    
+    /**
+     *  第一次提交
+     *
+     *  @return <#return value description#>
+     */
     
 }
 
